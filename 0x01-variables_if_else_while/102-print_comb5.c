@@ -6,9 +6,7 @@
 
  * main - a simple program that outputs unordered
 
- * combinations of two digit integers without duplicates
-
- *
+ * 
 
  * Return: 0 on success
 
@@ -83,3 +81,4 @@ int main(void)
 	return (0);
 
 }
+
